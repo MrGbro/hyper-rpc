@@ -11,6 +11,7 @@
     <modules>
         <module>hyper-extension</module>
         <module>hyper-test</module>
+        <module>hyper-protocol</module>
     </modules>
 
     <properties>
